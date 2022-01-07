@@ -4,7 +4,7 @@
 </div>
 
 ## Index
-* [Animals](#books-and-literature)
+* [Books and Literature](#books-and-literature)
 * [Entertainment](#entertainment)
 * [Finance and Business](#finance-and-business)
 * [Fitness and Wellness](#fitness-and-wellness)
