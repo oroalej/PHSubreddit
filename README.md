@@ -1,14 +1,14 @@
-<div style="text-align: center">
+<div style="text-align: center" align="center">
     <h1>PH Subreddit</h1>
     <i>A collection of subreddit dedicated for Philippine community</i>
 </div>
 
 ## Index
+
 * [Books and Literature](#books-and-literature)
 * [Entertainment](#entertainment)
 * [Finance and Business](#finance-and-business)
 * [Fitness and Wellness](#fitness-and-wellness)
-* [Food](#food)
 * [Games](#games)
 * [Hobbies and Leisure](#hobbies-and-leisure)
 * [Jobs and Education](#jobs-and-education)
@@ -24,6 +24,7 @@
 * [Sports](#sports)
 
 ### Books and Literature
+
 | Subreddit                                                      | Description                                                                                                                                                                                                                     |
 |----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [r/ScreenwritingPH](https://www.reddit.com/r/ScreenwritingPH/) | Welcome to r/ScreenwritingPH. A subreddit for Filipino screenwriters.                                                                                                                                                           |
@@ -37,8 +38,10 @@
 | [r/Tagalog](https://www.reddit.com/r/Tagalog/)                 | A subreddit for discussing the Tagalog language. Tagalog is known formally as Filipino, the name under which Tagalog is designated the national language of the Philippines, as well as an official language alongside English. |
 | [r/ilustrado](https://www.reddit.com/r/ilustrado/)             ||
 | [r/Filipino](https://www.reddit.com/r/Filipino/)               | r/Filipino is the place for open discussion about the Filipino race, the Filipino language, or generally about Filipino culture.                                                                                                |
+| [r/PHOriginals](https://www.reddit.com/r/PHOriginals/)         | Welcome to /r/PHOriginals. A place for all to share their original work. Songs, poetry, short stories, art work, thought pieces, etc. Feel free to post them here.                                                              |
 
 ### Entertainment
+
 | Subreddit                                                              | Description                                                                                                                                                                                                                                                                  |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [r/CelebsPH](https://www.reddit.com/r/CelebsPH)                        ||
@@ -52,6 +55,8 @@
 | [r/AlasFeels](https://www.reddit.com/r/AlasFeels/)                     | This is a safe haven for people who needs a space to "make hugot" or release their (mostly negative) feelings and thoughts about love and relationships. Mope, vent, cry, drunk-type or share your feelings, make hugot, post related quotes, poetry and prose, you name it. |
 | [r/AniweebPH](https://www.reddit.com/r/AniweebPH/)                     | Reddit's Filipino anime community. (Anything related to Japanese culture is allowed)                                                                                                                                                                                         |
 | [r/animeph](https://www.reddit.com/r/animeph/)                         | Reddit for Filipino fans of Japanese animation and otaku culture in general (manga, cosplay, gaming, visual novels, J-music).                                                                                                                                                |
+| [r/LeopardsAteMyFacePH](https://www.reddit.com/r/LeopardsAteMyFacePH/) | Leopards Ate My Face, but the Philippines version. Inspired by the 2022 election results. Anytime someone is suffering consequences from something they voted for or supported or wanted to impose on other people that means... Leopards Ate Their Face!                    |
+| [r/2philippines4u](https://www.reddit.com/r/2philippines4u/)           | Welcome to r/2philippines4u a place where you can post sarcastic, ironic, and unironic post about the Philippines and it's main islands and regions                                                                                                                          |
 
 ### Finance and Business
 
@@ -63,6 +68,8 @@
 | [r/taxPH](https://www.reddit.com/r/taxPH/)                               | A subreddit for Philippine taxation.                                                                                                                                                                                                                                                       |
 | [r/PanganaySupportGroup](https://www.reddit.com/r/PanganaySupportGroup/) | Pangaea Support Group is made for the eldest kids or those daughter/sons/children who need a safe space. Being the main support of the family has its down side and is not always the best feeling - might be rewarding but it tends to be abused. Share your accomplishments with us too! |
 | [r/Tiangge](https://www.reddit.com/r/Tiangge/)                           ||
+| [r/phinvesthampaslupa](https://www.reddit.com/r/phinvesthampaslupa/)     | For pinoys earning average or below-average salary                                                                                                                                                                                                                                         |
+| [r/PhStartups](https://www.reddit.com/r/PhStartups/)                     | Anything about the Startup scene in the Philippines.                                                                                                                                                                                                                                       |
 
 ### Fitness and Wellness
 
@@ -74,11 +81,7 @@
 | [r/OffMyChestPH](https://www.reddit.com/r/OffMyChestPH/)             | A safe space where you can unload your burdens, as well as celebrate your wins and milestones. This aims to be a non-judgmental space where you can vent things you want off your chest, and support each other. May posting here bring relief to you. |
 | [r/relasyon](https://www.reddit.com/r/relasyon/)                     | Ikaw ba ay nalolongkot? Walang makaosap?                                                                                                                                                                                                               |
 | [r/PinoyUnsentLetters](https://www.reddit.com/r/PinoyUnsentLetters/) | Para sa mga tao na gusto niyong sulatan pero hindi niyo maibigay sa kanila.                                                                                                                                                                            |
-
-### Food
-| Subreddit                                                | Description                                                                   |
-|----------------------------------------------------------|-------------------------------------------------------------------------------|
-| [r/filipinofood](https://www.reddit.com/r/filipinofood/) | A sub that celebrates the wonderful food of and inspired by the Philippines . |
+| [r/filipinofood](https://www.reddit.com/r/filipinofood/)             | A sub that celebrates the wonderful food of and inspired by the Philippines .                                                                                                                                                                          |
 
 ### Games
 
@@ -94,6 +97,7 @@
 | [r/mobilelegendsPINAS](https://www.reddit.com/r/mobilelegendsPINAS/) | Lahat tungkol sa Mobile Legends. A Filipino subreddit community of Mobile Legends Players                                                                                                                                                                                                                                                                                                   |
 
 ### Hobbies and Leisure
+
 | Subreddit                                                                  | Description                                                                                                                                                                                                                                                                                                                                                    |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [r/RedditPHCyclingClub](https://www.reddit.com/r/RedditPHCyclingClub/)     | Filipino Reddit Cycling Community                                                                                                                                                                                                                                                                                                                              |
@@ -120,6 +124,8 @@
 | [r/pinoyfreelancers](https://www.reddit.com/r/pinoyfreelancers/)       | Here's a subreddit where Pinoy freelancers can post anything or ask about concerns related to working at home and freelancing online in general.                                                                                                                                                                |
 | [r/dostscholars](https://www.reddit.com/r/dostscholars/)               | A subreddit for all DOST-SEI scholars.                                                                                                                                                                                                                                                                          |
 | [r/studentsph](https://www.reddit.com/r/studentsph/)                   | Subreddit dedicated to students in and from the Philippines. From discussions, questions, tips & advice to student's reviews on schools, small rants and much more.                                                                                                                                             |
+| [r/LawPH](https://www.reddit.com/r/LawPH/)                             | A place to discuss Philippine laws and the legal profession. For lawyers and law enthusiasts.                                                                                                                                                                                                                   |
+| [r/phfindapath](https://www.reddit.com/r/phfindapath/)                 | Welcome to r/phfindapath. A Filipino subreddit where you can ask strangers for advice on what career to pursue and more.                                                                                                                                                                                        |
 
 ### Local and Travel
 
@@ -140,6 +146,7 @@
 | [r/plmharibon](https://www.reddit.com/r/plmharibon/)         | A community for anything related to Pamantasan ng Lungsod ng Maynila                                                                                                                                                                           |
 
 ### Music
+
 | Subreddit                                                | Description                                                                                                                                      |
 |----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | [r/opm](https://www.reddit.com/r/opm/)                   | Anything original that's Pilipino music! The latest mixtapes, mp3s, videos, news, and anything else Pilipino related from your favorite artists. |
@@ -155,6 +162,7 @@
 | [r/superficialgazette](https://www.reddit.com/r/superficialgazette/) | Official Subreddit of the Superficial Gazette of the Republic of the Philippines, dedicated to commentary and satire since Sep. 12, 2016.                                                                                                                                                                                                                            |
 | [r/Leni2022](https://www.reddit.com/r/Leni2022/)                     | Welcome to r/Leni2022 the unofficial subreddit for Leni and Kiko's 2022 run. The sub is dedicated to Leni's 2022 presidential campaign, including her running mate and senatorial candidate endorsement. Feel free to post discussions, news and events, media, fanart/campaign posters, campaign suggestions and criticism about the campaign.                      |
 | [r/EnoughMarcosSpam](https://www.reddit.com/r/EnoughMarcosSpam/)     | With the Marcos Apologists and DDS on the rise, it is apparent that their propaganda is so effective that even unaware Filipinos were deceived by false history as well as historical revisionism. This is to mock these people thinking that Marcos is a hero. Anyone is welcome to post or comment in this sub as long as you support democracy.                   |
+| [r/AngatBuhayPH](https://www.reddit.com/r/AngatBuhayPH/)             | The subreddit for Angat Buhay by OVP Leni Robredo. NGO launching on July 1, 2022. We are making the Philippines a better place!                                                                                                                                                                                                                                      |
 
 ### NSFW
 
@@ -162,15 +170,12 @@
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [r/alasjuicy](https://www.reddit.com/r/alasjuicy/)                       | NSFW stories and confessions from Filipino redditors                                                                                                                                                         |
 | [r/phgonewild](https://www.reddit.com/r/phgonewild/)                     | A haven for unprejudiced mature PH Redditors to boast their exposed bodies for amusement.                                                                                                                    |
-| [r/PHGoneWildCouples](https://www.reddit.com/r/PHGoneWildCouples/)       ||
 | [r/FilipinoHotties](https://www.reddit.com/r/FilipinoHotties/)           | Best women from the Philippines!                                                                                                                                                                             |
-| [r/Filipina](https://www.reddit.com/r/Filipina/)                         ||
 | [r/filipinasgonewild](https://www.reddit.com/r/filipinasgonewild/)       | /r/FilipinasGoneWild is dedicated to sexy Filipina girls baring it all for the world to see and getting a little, or even more, naughty about it.                                                            |
 | [r/filipinas](https://www.reddit.com/r/filipinas/)                       | A place to share photos, videos or stories about Filipina girls you have encountered in real life or online. Amateurs only, no professional pictures/videos, please.                                         |
 | [r/PHLadyBonersGoneWild](https://www.reddit.com/r/PHLadyBonersGoneWild/) | Your subreddit for Richards in the Philippines                                                                                                                                                               |
 | [r/sexypinaybabes](https://www.reddit.com/r/sexypinaybabes/)             | Some of the most beautiful women in the World, Filipinas or Pinays from the Philippines. Select Pinay photos from all over the Philippines Islands                                                           |
 | [r/PinayGoneWild](https://www.reddit.com/r/PinayGoneWild/)               |                                                                                                                                                                                                              |
-| [r/PinayMilf](https://www.reddit.com/r/PinayMilf/)                       |                                                                                                                                                                                                              |
 | [r/PinayKilikili](https://www.reddit.com/r/PinayKilikili/)               | Community ng mga mahihilig sa kilikili ng pinay at sa mga proud sa kilikili. Post lang kayo ng kilikili!                                                                                                     |
 | [r/PinayTikTok](https://www.reddit.com/r/PinayTikTok/)                   ||
 | [r/PinayMagazine](https://www.reddit.com/r/PinayMagazine/)               | Dedicated community for Pinay Magazine. #iamfilipina                                                                                                                                                         |
@@ -180,7 +185,7 @@
 | [r/dirtyphr4r](https://www.reddit.com/r/dirtyphr4r/)                     | A place where horny FILIPINO Redditors can come and find one another.                                                                                                                                        |
 | [r/FilipinaSluts](https://www.reddit.com/r/FilipinaSluts/)               |                                                                                                                                                                                                              |
 | [r/CelebsPHnsfw](https://www.reddit.com/r/CelebsPHnsfw/)                 | Just like /r/CelebsPH but exclusively NSFW.                                                                                                                                                                  |
-| [r/PinayScandalsOnly](https://www.reddit.com/r/PinayScandalsOnly/)       | Pinay Scandals Only is dedicated to sharing local nude and sex scandals in the Philippines.                                                                                                                  |
+| [r/wholesomephr4r](https://www.reddit.com/r/wholesomephr4r/)             | Welcome to wholesomephr4r                                                                                                                                                                                    |
 
 ### Online Communities
 
@@ -193,6 +198,7 @@
 | [r/phclassifieds](https://www.reddit.com/r/phclassifieds/)         |                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | [r/PhR4Friends](https://www.reddit.com/r/PhR4Friends/)             | A Philippine-based subreddit where people can look for wholesome connections and genuine conversations                                                                                                                                                                                                                                                                                                                        |
 | [r/phr4r](https://www.reddit.com/r/phr4r/)                         | A place for Pinoy Redditors to meet and make connections.                                                                                                                                                                                                                                                                                                                                                                     |
+| [r/AntiworkPH](https://www.reddit.com/r/AntiworkPH/)               | Welcome to r/AntiworkPH, r/philippines answer to r/antiwork. Go and invite your friends or whatever. Don't worry, the mods will not conduct some stupid interview that will lead to the sub's downfall.                                                                                                                                                                                                                       |
 
 ### Others
 
@@ -210,6 +216,7 @@
 | [r/balintawak](https://www.reddit.com/r/balintawak/)                 | Balintawak esprima is a Filipino martial art that teaches compact, powerful movements, often using fighting sticks, but the style translates to any weapon or non-weapon combat, including boxing and kickboxing. While Balintawak traditionally uses one stick, there are other eskrima styles that use two sticks. But the results are the same: strong defense, tactical approach, and devastating strikes. |
 
 ### People and Society
+
 | Subreddit                                                                | Description                                                                                                                                                                                                                                                                              |
 |--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [r/phlgbt](https://www.reddit.com/r/phlgbt/)                             ||
@@ -218,6 +225,7 @@
 | [r/FilipinoFreethinkers](https://www.reddit.com/r/FilipinoFreethinkers/) | We are a group of freethinking Filipinos, composed of atheists, agnostics, deists, pantheists, humanists, and progressive theists.                                                                                                                                                       |
 
 ### Photo
+
 | Subreddit                                                                  | Description                                                                                                                                                                                                                                                                                                                                                                                                    |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [r/PhilippinesPics](https://www.reddit.com/r/PhilippinesPics/)             | A subreddit for photography of the Philippines! Member of the /r/NationalPhotoSubs network.                                                                                                                                                                                                                                                                                                                    |
@@ -237,6 +245,7 @@
 | [r/RateUPProfs](https://www.reddit.com/r/RateUPProfs/)     | Rate UP Profs on Reddit! Share experiences of your professors from all throughout the University of the Philippines system.                                                |
 
 ### Sports
+
 | Subreddit                                    | Description                                                                                                                                                                                                            |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [r/PBA](https://www.reddit.com/r/PBA/)       | This subreddit is dedicated for the subscribed fans of the Philippine Basketball Association, the second oldest major basketball league in the world. Join the discussion and be enlightened with Filipino basketball. |
